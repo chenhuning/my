@@ -1,2 +1,0 @@
-# my
-my public repository
